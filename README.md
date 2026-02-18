@@ -603,7 +603,12 @@ print("Invalid choice try again....."):
 
 
 
+</pre>
+     
+
+     
 <hr>
+
 
 
 
@@ -680,4 +685,4 @@ After understanding this code, you should be able to:
 
 This comprehensive guide covers every line of code with beginner-friendly explanations! 🎉
 
-</pre>
+
