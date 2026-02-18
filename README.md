@@ -1,11 +1,22 @@
-<pre>
+
 <h1> Pythonpracticeproject2</h1>
 My python practice project 2
 <hr>
 <h1>Randompasswordgenerator_A code explaination :-</h1>
+
+
+
 <hr>
 
+
+
 <h5>Line-by-Line Breakdown:-</h5>
+
+
+<hr>
+
+
+<pre>
 
 1. import random
 What it does: Imports Python's built-in random module
@@ -68,6 +79,11 @@ Output: A random 18-character password like: 7kL#mN9@xQ2$pRvWut
 <hr>
 <hr>
 <hr>
+
+   
+</pre>
+
+
 
 
 <h1>🔐 Random Password Generator (Advanced Version B)</h1>
