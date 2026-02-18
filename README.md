@@ -250,6 +250,7 @@ After studying this code, you'll understand:
 
 <hr>
 
+<pre>
 
 <h4>Section 1: Importing Libraries (Lines 1-3)</h4>
 
@@ -657,3 +658,4 @@ After understanding this code, you should be able to:
 
 This comprehensive guide covers every line of code with beginner-friendly explanations! 🎉
 
+</pre>
