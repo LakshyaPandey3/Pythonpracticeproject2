@@ -1,3 +1,4 @@
+<pre>
 <h1> Pythonpracticeproject2</h1>
 My python practice project 2
 <hr>
@@ -249,6 +250,11 @@ After studying this code, you'll understand:
 
 
 <hr>
+
+
+
+</pre>   
+
 
 <pre>
 
