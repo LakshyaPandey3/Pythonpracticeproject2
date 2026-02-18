@@ -641,6 +641,9 @@ END
 📚 Key Concepts Summary Table:-
 
 
+<pre>
+
+
 Concept               	What It Does	                    Example
 
 import               	Brings in libraries	              import random
@@ -667,6 +670,8 @@ if/elif/else	         Conditional logic	                 Check user input
 
 
 
+</pre>
+   
 <hr>
 
 
