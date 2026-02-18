@@ -680,6 +680,8 @@ if/elif/else	         Conditional logic	                 Check user input
 
 After understanding this code, you should be able to:
 
+<pre>
+
 ✅ Explain what import does and why we need it
 ✅ Describe the three character sets used
 ✅ Calculate character distribution for any password length
@@ -691,7 +693,7 @@ After understanding this code, you should be able to:
 ✅ Explain the if/elif/else logic flow
 ✅ Know when to use break to exit a loop
 
-
+</pre>
 
 This comprehensive guide covers every line of code with beginner-friendly explanations! 🎉
 
