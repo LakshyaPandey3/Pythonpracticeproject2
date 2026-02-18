@@ -615,6 +615,8 @@ print("Invalid choice try again....."):
 🎯 Program Flow Diagram:-
 
 
+<pre>
+
 START
   ↓
 Ask: "Want more passwords?"
@@ -628,6 +630,9 @@ Ask: "Want more passwords?"
 └─ User types anything else → Show error → Loop back
   ↓
 END
+
+
+</pre> 
 
 
 <hr>
